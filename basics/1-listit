@@ -1,2 +1,2 @@
 #!/bin/bash
-ls / or ls -la /n
+ls -l /n
