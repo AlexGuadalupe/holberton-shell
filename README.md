@@ -1,2 +1,2 @@
-# holberton-shell
-Shell - Basics Proyect 02-12-2024
+#!/bin/bash
+Shell Basics Projects on 02-12-2024
