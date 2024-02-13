@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "files ending with ` deleted."
+echo "files ending with ~ deleted"
