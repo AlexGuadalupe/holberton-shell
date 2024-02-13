@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r [~]* /tmp/emacs
+rm -r ? [~]* /tmp/emacs~
