@@ -1,2 +1,2 @@
 #!/bin/bash
-* [uppercase]*
+mv -r * [uppercase]*
