@@ -1,2 +1,2 @@
 #!/bin/bash
-[A-Z]* - exec mv {} /tmp/u
+mv [ -f "u"] /tmp/u
