@@ -1,2 +1,2 @@
 #!/bin/bash
-IFS=':' read -ra directorios_path <<< "$PATH"
+echo ./* $PATH
